@@ -1,4 +1,4 @@
-![alt text](https://github.com/bevinkeyboards/Bevins-Corne-case/blob/main/Images/corne1.png)
+![alt text](https://github.com/bevin-kbds/Misc-Keyboard-Accessories/blob/main/Bevins-Corne-case/Images/corne1.png)
 # Another 3D printable Cherry Corne Case
 Provided are all the STL files needed to print a corne case for your corne needs.
 Simply import into a slicer of your choice and print!
